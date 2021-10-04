@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cespriet
 - 👀 I’m interested in smothing
 - 🌱 I’m currently learning about the world
-- 💞️ I’m looking to collaborate on a projet
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me . . . 
 
 <!---
